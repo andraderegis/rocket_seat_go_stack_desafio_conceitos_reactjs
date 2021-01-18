@@ -4,7 +4,7 @@
 
 # Sobre
 
-**Este projeto se trata de uma simples aplicação ReactJS desenvolvida como desafio da Fase 1 do curso [GoStack](https://pages.rocketseat.com.br/gostack),ministrado pela [RocketSeat](https://rocketseat.com.br/)**
+**Este projeto se trata de uma simples aplicação ReactJS desenvolvida como desafio da Fase 1 do curso [GoStack](https://pages.rocketseat.com.br/gostack), ministrado pela [RocketSeat](https://rocketseat.com.br/)**
 
 # Instruções
 
