@@ -20,7 +20,7 @@ docker pull andradereginaldo/go_stack_desafio_backend_nodejs
 docker run -p 3333:3333 andradereginaldo/go_stack_desafio_backend_nodejs
 ```
 
-**Uma vez, com o container da aplicação back-end em execução, execute o seguinte comando dentro do diretório da aplicação ReactJS:**
+**Uma vez com o container da aplicação back-end em execução, execute o seguinte comando dentro do diretório da aplicação ReactJS:**
 
 ```
 yarn start
